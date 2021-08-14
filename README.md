@@ -1,5 +1,9 @@
 # Interview preparation bookmarks
 
+## Programming
+
+[Python Interview Practice Questions](https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac)
+
 ## System design
 
 [Horizontal vs Vertical Scaling](https://www.section.io/blog/scaling-horizontally-vs-vertically/#:~:text=What's%20the%20main%20difference%3F,as%20“scaling%20up”)
