@@ -1,4 +1,4 @@
-# Interview preparation bookmarks
+# Useful articles
 
 ## Programming
 
@@ -15,3 +15,7 @@
 [Partitioning/Sharding Data](https://medium.com/must-know-computer-science/system-design-sharding-data-partitioning-b7201596aafa)
 
 [Consistent Hashing](https://www.acodersjourney.com/system-design-interview-consistent-hashing/)
+
+## Kubernetes
+
+[Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
